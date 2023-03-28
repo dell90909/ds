@@ -1,0 +1,10 @@
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/bin/Addition.dll
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/bin/Addition.pdb
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/bin/Addition.xml
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/obj/Release/Addition.vbproj.AssemblyReference.cache
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/obj/Release/Addition.Resources.resources
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/obj/Release/Addition.vbproj.GenerateResource.cache
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/obj/Release/Addition.vbproj.CoreCompileInputs.cache
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/obj/Release/Addition.dll
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/obj/Release/Addition.xml
+/Users/suyashnehete/Downloads/softwares/Programs/Assignment 7/WebServiveCretn/WebServiveCretn/Addition/Addition/obj/Release/Addition.pdb

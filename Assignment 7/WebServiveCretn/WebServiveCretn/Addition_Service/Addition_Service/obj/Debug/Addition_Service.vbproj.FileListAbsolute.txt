@@ -1,0 +1,9 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\bin\Addition_Service.dll
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\bin\Addition_Service.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\bin\Addition_Service.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\obj\Debug\Addition_Service.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\obj\Debug\Addition_Service.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\obj\Debug\Addition_Service.dll
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\obj\Debug\Addition_Service.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition_Service\Addition_Service\obj\Debug\Addition_Service.pdb

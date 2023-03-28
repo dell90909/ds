@@ -1,0 +1,163 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Addition
+</name>
+</assembly>
+<members>
+<member name="F:Addition._Default._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._TextBox1">
+<summary>
+TextBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._TextBox2">
+<summary>
+TextBox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Addition._Default._Button2">
+<summary>
+Button2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:Addition.service.Service1">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.#ctor">
+<remarks/>
+</member>
+<member name="E:Addition.service.Service1.HelloWorldCompleted">
+<remarks/>
+</member>
+<member name="E:Addition.service.Service1.AdditionCompleted">
+<remarks/>
+</member>
+<member name="E:Addition.service.Service1.leapCompleted">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.HelloWorld">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.HelloWorldAsync">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.HelloWorldAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.Addition(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.AdditionAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.AdditionAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.leap(System.String)">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.leapAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.leapAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Addition.service.Service1.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:Addition.service.HelloWorldCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Addition.service.HelloWorldCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Addition.service.HelloWorldCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Addition.service.AdditionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Addition.service.AdditionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Addition.service.AdditionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Addition.service.leapCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Addition.service.leapCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Addition.service.leapCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\bin\Addition.dll
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\bin\Addition.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\bin\Addition.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\obj\Debug\Addition.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\obj\Debug\Addition.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\obj\Debug\Addition.dll
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\obj\Debug\Addition.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\Addition\Addition\obj\Debug\Addition.pdb
